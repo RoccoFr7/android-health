@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "com.microsoft.skydrive": {
+      "category": "optional_preload",
+      "reason": "Microsoft OneDrive, sincronizzazione cloud opzionale se presente come pacchetto di sistema. Scheda editore: https://play.google.com/store/apps/details?id=com.microsoft.skydrive"
+    }
+  },
+  "sha256": {}
+}
