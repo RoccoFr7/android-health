@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "com.example.cleaner": {
+      "category": "utility",
+      "reason": "Esempio fittizio. Sostituire con una voce verificata per il proprio dispositivo."
+    }
+  },
+  "sha256": {}
+}
