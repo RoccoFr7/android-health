@@ -1,5 +1,7 @@
 # Android Health
 
+[![Scarica per Windows](https://img.shields.io/badge/Scarica%20per%20Windows-x64-0078D4?style=for-the-badge)](https://github.com/RoccoFr7/android-health/releases/latest/download/Android-Health-Portatile-Windows-x64.zip)
+
 Android Health è uno strumento Python per analizzare un telefono Android autorizzato via ADB. La scansione è in sola lettura e produce un report HTML consultabile offline e uno snapshot JSON.
 
 - Inventario di app, permessi e accessi speciali, con misure di RAM, batteria, archiviazione e traffico quando disponibili.
